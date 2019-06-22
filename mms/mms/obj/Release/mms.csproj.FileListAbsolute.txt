@@ -1,0 +1,124 @@
+G:\work\kornofuli\last\mms\mms\bin\Release\mms.exe.config
+G:\work\kornofuli\last\mms\mms\bin\Release\mms.exe
+G:\work\kornofuli\last\mms\mms\bin\Release\mms.pdb
+G:\work\kornofuli\last\mms\mms\bin\Release\Bunifu_UI_v1.5.3.dll
+G:\work\kornofuli\last\mms\mms\bin\Release\MySql.Data.Entity.EF6.dll
+G:\work\kornofuli\last\mms\mms\bin\Release\MySql.Data.Entity.EF6.xml
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.adjustment.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.check.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.ClientAdjutment.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.colection.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.kuchra.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.login.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.main1.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.partyinfo.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.partyleger.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.payment.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.print.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.productinfo.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.Properties.Resources.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.purchase.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.sales.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.spash.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.staf.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.stock.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.truckhisab.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.csproj.GenerateResource.Cache
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.exe
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.pdb
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.cassbook.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.report.resources
+G:\work\kornofuli\last\mms\mms\obj\Release\mms.csprojResolveAssemblyReference.cache
+E:\last\mms\mms\bin\Release\mms.exe.config
+E:\last\mms\mms\obj\Release\mms.exe
+E:\last\mms\mms\obj\Release\mms.pdb
+E:\last\mms\mms\bin\Release\mms.exe
+E:\last\mms\mms\bin\Release\mms.pdb
+E:\last\mms\mms\bin\Release\MySql.Data.Entity.EF6.dll
+E:\last\mms\mms\bin\Release\MySql.Data.Entity.EF6.xml
+E:\last\mms\mms\obj\Release\mms.csprojResolveAssemblyReference.cache
+E:\last\mms\mms\obj\Release\mms.adjustment.resources
+E:\last\mms\mms\obj\Release\mms.cassbook.resources
+E:\last\mms\mms\obj\Release\mms.check.resources
+E:\last\mms\mms\obj\Release\mms.ClientAdjutment.resources
+E:\last\mms\mms\obj\Release\mms.colection.resources
+E:\last\mms\mms\obj\Release\mms.kuchra.resources
+E:\last\mms\mms\obj\Release\mms.login.resources
+E:\last\mms\mms\obj\Release\mms.main1.resources
+E:\last\mms\mms\obj\Release\mms.partyinfo.resources
+E:\last\mms\mms\obj\Release\mms.partyleger.resources
+E:\last\mms\mms\obj\Release\mms.payment.resources
+E:\last\mms\mms\obj\Release\mms.print.resources
+E:\last\mms\mms\obj\Release\mms.productinfo.resources
+E:\last\mms\mms\obj\Release\mms.Properties.Resources.resources
+E:\last\mms\mms\obj\Release\mms.purchase.resources
+E:\last\mms\mms\obj\Release\mms.report.resources
+E:\last\mms\mms\obj\Release\mms.sales.resources
+E:\last\mms\mms\obj\Release\mms.spash.resources
+E:\last\mms\mms\obj\Release\mms.staf.resources
+E:\last\mms\mms\obj\Release\mms.stock.resources
+E:\last\mms\mms\obj\Release\mms.truckhisab.resources
+E:\last\mms\mms\obj\Release\mms.csproj.GenerateResource.Cache
+C:\Users\Trust Computer\Desktop\mms\mms\bin\Release\mms.exe.config
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.exe
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.pdb
+C:\Users\Trust Computer\Desktop\mms\mms\bin\Release\mms.exe
+C:\Users\Trust Computer\Desktop\mms\mms\bin\Release\mms.pdb
+C:\Users\Trust Computer\Desktop\mms\mms\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Trust Computer\Desktop\mms\mms\bin\Release\MySql.Data.Entity.EF6.dll
+C:\Users\Trust Computer\Desktop\mms\mms\bin\Release\MySql.Data.Entity.EF6.xml
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.adjustment.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.cassbook.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.check.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.ClientAdjutment.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.colection.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.kuchra.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.login.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.main1.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.partyinfo.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.partyleger.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.payment.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.print.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.productinfo.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.Properties.Resources.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.purchase.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.report.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.sales.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.spash.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.staf.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.stock.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.truckhisab.resources
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.csproj.GenerateResource.Cache
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.csprojResolveAssemblyReference.cache
+C:\Users\Trust Computer\Desktop\mms\mms\obj\Release\mms.ex.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\bin\Release\mms.exe.config
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.exe
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.pdb
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\bin\Release\mms.exe
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\bin\Release\mms.pdb
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\bin\Release\MySql.Data.Entity.EF6.dll
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\bin\Release\MySql.Data.Entity.EF6.xml
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.adjustment.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.cassbook.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.check.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.ClientAdjutment.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.colection.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.ex.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.kuchra.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.login.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.main1.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.partyinfo.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.partyleger.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.payment.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.print.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.productinfo.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.Properties.Resources.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.purchase.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.report.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.sales.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.spash.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.staf.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.stock.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.truckhisab.resources
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.csproj.GenerateResource.Cache
+C:\Users\sahat\Desktop\New folder (3)\mms\mms\obj\Release\mms.csprojResolveAssemblyReference.cache

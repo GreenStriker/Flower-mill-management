@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="staffdata" targetNamespace="http://tempuri.org/staffdata.xsd" xmlns:mstns="http://tempuri.org/staffdata.xsd" xmlns="http://tempuri.org/staffdata.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.mms.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.Odbc" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="staffdata" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="staffdata" msprop:Generator_UserDSName="staffdata">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="month" msprop:Generator_ColumnVarNameInTable="columnmonth" msprop:Generator_ColumnPropNameInRow="month" msprop:Generator_ColumnPropNameInTable="monthColumn" msprop:Generator_UserColumnName="month" type="xs:string" minOccurs="0" />
+              <xs:element name="year" msprop:Generator_ColumnVarNameInTable="columnyear" msprop:Generator_ColumnPropNameInRow="year" msprop:Generator_ColumnPropNameInTable="yearColumn" msprop:Generator_UserColumnName="year" type="xs:string" minOccurs="0" />
+              <xs:element name="staf_id" msprop:Generator_ColumnVarNameInTable="columnstaf_id" msprop:Generator_ColumnPropNameInRow="staf_id" msprop:Generator_ColumnPropNameInTable="staf_idColumn" msprop:Generator_UserColumnName="staf_id" type="xs:string" minOccurs="0" />
+              <xs:element name="present_days" msprop:Generator_ColumnVarNameInTable="columnpresent_days" msprop:Generator_ColumnPropNameInRow="present_days" msprop:Generator_ColumnPropNameInTable="present_daysColumn" msprop:Generator_UserColumnName="present_days" type="xs:string" minOccurs="0" />
+              <xs:element name="salary" msprop:Generator_ColumnVarNameInTable="columnsalary" msprop:Generator_ColumnPropNameInRow="salary" msprop:Generator_ColumnPropNameInTable="salaryColumn" msprop:Generator_UserColumnName="salary" type="xs:string" minOccurs="0" />
+              <xs:element name="taken_amount" msprop:Generator_ColumnVarNameInTable="columntaken_amount" msprop:Generator_ColumnPropNameInRow="taken_amount" msprop:Generator_ColumnPropNameInTable="taken_amountColumn" msprop:Generator_UserColumnName="taken_amount" type="xs:string" minOccurs="0" />
+              <xs:element name="overtime_amount" msprop:Generator_ColumnVarNameInTable="columnovertime_amount" msprop:Generator_ColumnPropNameInRow="overtime_amount" msprop:Generator_ColumnPropNameInTable="overtime_amountColumn" msprop:Generator_UserColumnName="overtime_amount" type="xs:string" minOccurs="0" />
+              <xs:element name="name" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnPropNameInTable="nameColumn" msprop:Generator_UserColumnName="name" type="xs:string" minOccurs="0" />
+              <xs:element name="main_salary" msprop:Generator_ColumnVarNameInTable="columnmain_salary" msprop:Generator_ColumnPropNameInRow="main_salary" msprop:Generator_ColumnPropNameInTable="main_salaryColumn" msprop:Generator_UserColumnName="main_salary" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

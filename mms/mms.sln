@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mms", "mms\mms.csproj", "{2A77C082-F4B6-444F-92D0-E4B9F0597FBC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Shield Soft ERP", "Shield Soft ERP\Shield Soft ERP.vdproj", "{15066385-1D0E-4CAC-818D-0FA884EFD6EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A77C082-F4B6-444F-92D0-E4B9F0597FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A77C082-F4B6-444F-92D0-E4B9F0597FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A77C082-F4B6-444F-92D0-E4B9F0597FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A77C082-F4B6-444F-92D0-E4B9F0597FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15066385-1D0E-4CAC-818D-0FA884EFD6EA}.Debug|Any CPU.ActiveCfg = Debug
+		{15066385-1D0E-4CAC-818D-0FA884EFD6EA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
