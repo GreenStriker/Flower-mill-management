@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mms", "mms\mms.csproj", "{2A77C082-F4B6-444F-92D0-E4B9F0597FBC}"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Shield Soft ERP", "Shield Soft ERP\Shield Soft ERP.vdproj", "{15066385-1D0E-4CAC-818D-0FA884EFD6EA}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database", "Database\Database.sqlproj", "{82932D9F-931F-4EEE-BF2F-5D53C27075E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,8 +21,17 @@ Global
 		{2A77C082-F4B6-444F-92D0-E4B9F0597FBC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{15066385-1D0E-4CAC-818D-0FA884EFD6EA}.Debug|Any CPU.ActiveCfg = Debug
 		{15066385-1D0E-4CAC-818D-0FA884EFD6EA}.Release|Any CPU.ActiveCfg = Release
+		{82932D9F-931F-4EEE-BF2F-5D53C27075E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82932D9F-931F-4EEE-BF2F-5D53C27075E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82932D9F-931F-4EEE-BF2F-5D53C27075E6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{82932D9F-931F-4EEE-BF2F-5D53C27075E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82932D9F-931F-4EEE-BF2F-5D53C27075E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82932D9F-931F-4EEE-BF2F-5D53C27075E6}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19E024A3-E0A0-4946-A982-16CF456F00A1}
 	EndGlobalSection
 EndGlobal
